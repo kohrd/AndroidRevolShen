@@ -2,5 +2,6 @@
     <string name="app_name">Aplikacja Konrada</string>
     <string name="YES">TAK</string>
     <string name="NO">NIE</string>
+    <string name="WORKS">dziala</string>
     <string name="MAIN_TEXT">To jest mój pierwszy text. Podoba Ci się?</string>
 </resources>
