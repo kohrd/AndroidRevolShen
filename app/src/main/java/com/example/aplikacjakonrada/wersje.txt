@@ -1,0 +1,1 @@
+4 intencej i obsluga aktywnosci - wyswietlanie obrazka po kliknieciu na przycisk
